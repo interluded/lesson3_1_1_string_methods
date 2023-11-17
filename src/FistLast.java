@@ -15,5 +15,4 @@ public class FistLast {
             System.out.println("diff");
         }
         }
-
     }
